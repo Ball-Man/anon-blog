@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 
                 // Add date
                 const date = document.createElement('p');
-                date.textContent = new Date(post.date).toLocaleDateString(); // Format date
+                date.textContent = post.date
                 date.classList.add('post-date'); // Optional class for styling
                 article.appendChild(date);
                 
