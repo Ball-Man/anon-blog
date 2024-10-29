@@ -18,9 +18,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 date.classList.add('post-date'); // Optional class for styling
                 article.appendChild(date);
                 
-                // Add body
+                // Add body with line breaks
                 const body = document.createElement('p');
-                body.textContent = post.body;
+                body.innerHTML = post.body.replace(/\n/g, '<br>'); // Replace \n with <br>
                 article.appendChild(body);
                 
                 // Create comments section
