@@ -12,6 +12,12 @@ document.addEventListener("DOMContentLoaded", function() {
                 title.textContent = post.title;
                 article.appendChild(title);
                 
+                // Add date
+                const date = document.createElement('p');
+                date.textContent = new Date(post.date).toLocaleDateString(); // Format date
+                date.classList.add('post-date'); // Optional class for styling
+                article.appendChild(date);
+                
                 // Add body
                 const body = document.createElement('p');
                 body.textContent = post.body;

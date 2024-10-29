@@ -52,3 +52,10 @@ article {
     border-radius: 3px;
     margin: 5px 0; /* Space between comments */
 }
+
+.post-date {
+    font-size: 0.9rem; /* Smaller font size for the date */
+    color: #666; /* Gray color for the date */
+    margin: 5px 0; /* Space around the date */
+}
+

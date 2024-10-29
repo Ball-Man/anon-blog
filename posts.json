@@ -3,6 +3,7 @@
         {
             "title": "Post Title 1",
             "body": "Body content for Post 1 goes here...",
+            "date": "2024-10-01",
             "comments": [
                 {"username": "User 1", "comment": "Great post!"},
                 {"username": "User 2", "comment": "Very informative."}
@@ -11,6 +12,7 @@
         {
             "title": "Post Title 2",
             "body": "Body content for Post 2 goes here...",
+            "date": "2024-10-15",
             "comments": [
                 {"username": "User 1", "comment": "Nice read!"},
                 {"username": "User 2", "comment": "I learned a lot."}
@@ -19,6 +21,7 @@
         {
             "title": "Post Title 3",
             "body": "Body content for Post 3 goes here...",
+            "date": "2024-10-20",
             "comments": [
                 {"username": "User 1", "comment": "Very helpful!"},
                 {"username": "User 2", "comment": "Thanks for sharing!"}
