@@ -1,12 +1,13 @@
 {
     "posts": [
         {
-            "title": "Post Title 1",
-            "body": "Body content for Post 1 goes here...",
-            "date": "2024-10-01",
+            "title": "The Cost of Progress",
+            "body": "Today, I learned more about Professor Cellar research. It's chilling how he's using fish to “enhance cognitive abilities.” What a facade! To him, these creatures are mere tools for his ambition. The world may celebrate scientific progress, but at what cost? I won't stand idly by while he exploits the innocent for his misguided experiments.\n\nThe irony is rich: a man who claims to be advancing knowledge, yet he drowns himself in a sea of ethics. I've seen the depths of his cruelty, and I'm determined to shine a light on his darkpractices.",
+            "date": "15th August",
             "comments": [
-                {"username": "User 1", "comment": "Great post!"},
-                {"username": "User 2", "comment": "Very informative."}
+                {"username": "AnimalLover23", "comment": "You’re right! We need to stop these experiments before it’s too late!"},
+                {"username": "ProfSupporter88", "comment": "This is slander! The professor is a pioneer in his field. You should be ashamed."},
+                {"username": "AngryActivist", "comment": "If he keeps hurting those fish, he won’t live to see his next grant. #JusticeForAnimals"}
             ]
         },
         {
